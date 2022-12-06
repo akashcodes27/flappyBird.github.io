@@ -12,14 +12,14 @@
     position: relative;
 } */
 #game{
-    height: 570px;
-    width: 350px;
+    height: 725px;
+    width: 365px;
     background-image: url('fb-game-background.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
     border: 4px solid black;
-    margin-left: 2%;
+    margin-left: 1%;
     margin-top: 2%;
     overflow: hidden;
     position: relative;
